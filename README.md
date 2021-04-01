@@ -1,2 +1,2 @@
 # sfdx-jenkins
-My Jenkins Projects
+Jenkins Projects
