@@ -1,2 +1,2 @@
 # sfdx-jenkins
-My Jenkins Projects update
+My Jenkins Projects
